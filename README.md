@@ -20,15 +20,6 @@ The phishing webpage collection comes from [PhishTank.org](https://phishtank.org
 After webpages are crawled and preprocessed, two files are created. The __`page_PCA_N.7z`__ contains all benign webpages, and the __`page_PCA_P.7z`__ contains all phishing webpages. 
 The format of one webpage in files is as follows:
 
-__'url'__: {  
-- __'classstyl'__:   [];  
-- __'hashcode'__:    '';  
-- __'idstyle'__:     [];  
-- __'name'__:        url;  
-- __'newtagseq'__:   [tag sequence with hierarchy];  
-- __'tagseq'__:      [Tag sequence has no hierarchical information] 
-}  
-
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
  <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
