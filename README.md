@@ -1,5 +1,5 @@
 # SPHDM 
-                A Structure based Phish Homology Detection Model (SPHDM)  is proposed to detected the phishing web.
+    A Structure based Phish Homology Detection Model (SPHDM)  is proposed to detected the phishing web.
 
     Thank you for your interests in our work!
 
