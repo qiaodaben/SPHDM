@@ -16,8 +16,8 @@ The phishing webpage collection comes from [PhishTank.com](https://phishtank.org
 [benign webpage: Alexa](https://www.alexa.com/)  
 
 ## Pretreatment
-After webpage data is crawled and preprocessed, each file contains a complete set of phishing (or normal) webpages, __`page_PCA_N.7z`__ represents the benign webpage data set, __`page_PCA_P.7z`__ represents the phishing webpage data set, the format is as follows:{
-After webpages are crawled and preprocessed, two files are created. The __`page_PCA_N.7z`_ contains all benign webpages, and the __`page_PCA_P.7z`__ contains all phishing webpages. 
+
+After webpages are crawled and preprocessed, two files are created. The __`page_PCA_N.7z`__contains all benign webpages, and the __`page_PCA_P.7z`__ contains all phishing webpages. 
 The format of one webpage in files is as follows:
 __'url'__: {  
 - __'classstyl'__:   [];  
