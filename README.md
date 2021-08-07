@@ -3,7 +3,7 @@
 
     Thank you for your interests in our work!
 
-    The dataset we ultilized for training and testin is reposited in [github](https://github.com/qiaodaben/SPHDM-/tree/main/dataset).
+    The dataset we ultilized for training and testin is reposited in SPHDM/dataset.
 
 ## Dataset Sources  
 
