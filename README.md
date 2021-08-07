@@ -7,6 +7,11 @@
 
 ## Dataset Sources  
 
+The webpages used in the experiments come from Internet. Among them, the benign webpage collection is from [Alexa](https://www.alexa.com/) . Alexa is a website maintained by Amazon that publishes the world rankings of websites. We collect webpages in the top list provided by Alexa which are considered as benign webpages. After filtering out invalid, error, and duplicate pages, 10,922 benign webpages are collected.
+
+The phishing webpage collection comes from [PhishTank.com](https://phishtank.org/). PhishTank is an internationally well-known website which collects suspected phish submitted by anyone, verifies it according to whether it has a fraudulent attempt or not, and then publish a timely and authoritative list of phishing webpages for research. Due to the short survival time of phishing webpages, we collected totally 10,944 phishing webpages listed on PhishTank every day from September 2019 to November 2019, and processed the webpages that did not meet the grammar rules.
+
+
 [phishing webpage](https://phishtank.org/)  
 [benign webpage](https://www.alexa.com/)  
 
