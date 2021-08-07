@@ -1,10 +1,10 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 # SPHDM 
-    A Structure based Phish Homology Detection Model (SPHDM)  is proposed to detected the phishing web.
+    A method of Structure based Phish Homology Detection Model (SPHDM) is proposed to detect the phishing webpages.
 
     Thank you for your interests in our work!
 
-    The dataset we ultilized for training and testing is reposited in SPHDM/dataset.
+    The dataset used by SPHDM for training and testing is deposited here in SPHDM/dataset.
 
 ## Dataset Sources  
 
@@ -247,7 +247,8 @@ The format of one webpage in files is as follows:
 
 The extraction details of classstyle and newtagseq can be found in section 3.3.1 and 3.3.2.   
 
-## Preprocessed Data Address [Address](https://github.com/qiaodaben/SPHDM-/tree/main/dataset)
+## Preprocessed Data 
+Store the preprocessed data set:[Address](https://github.com/qiaodaben/SPHDM-/tree/main/dataset)
 
 ## Usage Policy and Legal Disclaimer
 This dataset is being distributed only for Research purposes, under [Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). By clicking on the download buttons, you are agreeing to use this data only for non-commercial, research, or academic applications. You may cite the above paper if you use this dataset.  
