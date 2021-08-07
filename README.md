@@ -247,7 +247,7 @@ The format of one webpage in files is as follows:
 
 The extraction details of classstyle and newtagseq can be obtained in papers 3.3.1 and 3.3.2.    
 
-## Address [Address](https://github.com/qiaodaben/SPHDM-/tree/main/dataset)
+## Data Address [Address](https://github.com/qiaodaben/SPHDM-/tree/main/dataset)
 
 ## Usage Policy and Legal Disclaimer
 This dataset is being distributed only for Research purposes, under [Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). By clicking on the download buttons, you are agreeing to use this data only for non-commercial, research, or academic applications. You may cite the above paper if you use this dataset.  
