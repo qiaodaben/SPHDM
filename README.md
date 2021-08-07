@@ -6,19 +6,18 @@ Thank you for your interests in our work!
 The dataset we ultilized for training and testing for  is reposited in github.
 
 Dataset Sources
+phishing webpage:https://phishtank.org/  
+benign webpage:https://www.alexa.com/  
 
-phishing webpage:https://phishtank.org/
-benign webpage:https://www.alexa.com/
-
-After the data crawling process, each file contains the entire phishing (or normal) data set in the format：{
-'url': {
-        'classstyl': [];
-        'hashcode':'';
-        'idstyle':[];
-        'name': url;
-        'newtagseq':[tag sequence with hierarchy];
-        'tagseq':[Tag sequence has no hierarchical information] }
-}
+After the data crawling process, each file contains the entire phishing (or normal) data set in the format：{  
+'url': {  
+        'classstyl': [];  
+        'hashcode':'';  
+        'idstyle':[];  
+        'name': url;  
+        'newtagseq':[tag sequence with hierarchy];  
+        'tagseq':[Tag sequence has no hierarchical information] }  
+}  
 
 Address: https://github.com/qiaodaben/SPHDM-/tree/main/dataset
 
