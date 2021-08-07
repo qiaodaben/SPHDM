@@ -4,7 +4,7 @@
 
     Thank you for your interests in our work!
 
-    The dataset we ultilized for training and testin is reposited in SPHDM/dataset.
+    The dataset we ultilized for training and testing is reposited in SPHDM/dataset.
 
 ## Dataset Sources  
 
