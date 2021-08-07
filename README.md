@@ -17,7 +17,7 @@ The phishing webpage collection comes from [PhishTank.org](https://phishtank.org
 
 ## Pretreatment
 
-After webpages are crawled and preprocessed, two files are created. The __`page_PCA_N.7z`__ contains all benign webpages, and the __`page_PCA_P.7z`__ contains all phishing webpages. 
+After webpages are crawled and preprocessed, two files are created. The __`page_PCA_N.7z`__ contains all benign webpages, and the __`page_PCA_P.7z`__ contains all phishing webpages.   
 The format of one webpage in files is as follows:
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
