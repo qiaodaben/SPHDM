@@ -11,7 +11,9 @@
 [benign webpage](https://www.alexa.com/)  
 
 ## Pretreatment
-After webpage data is crawled and preprocessed, each file contains a complete set of phishing (or normal) webpages, __`page_PCA_N.7z`__ represents the benign webpage data set, __`page_PCA_P.7z`__ represents the phishing webpage data set, the format is as follows:{  
+After webpage data is crawled and preprocessed, each file contains a complete set of phishing (or normal) webpages, __`page_PCA_N.7z`__ represents the benign webpage data set, __`page_PCA_P.7z`__ represents the phishing webpage data set, the format is as follows:{
+After webpages are crawled and preprocessed, two files are created. The __`page_PCA_N.7z`_ contains all benign webpages, and the __`page_PCA_P.7z`__ contains all phishing webpages. 
+The format of one webpage in files is as follows:
 __'url'__: {  
 - __'classstyl'__:   [];  
 - __'hashcode'__:    '';  
@@ -19,7 +21,7 @@ __'url'__: {
 - __'name'__:        url;  
 - __'newtagseq'__:   [tag sequence with hierarchy];  
 - __'tagseq'__:      [Tag sequence has no hierarchical information] 
-}}  
+}  
 
 ## Address [Address](https://github.com/qiaodaben/SPHDM-/tree/main/dataset)
 
