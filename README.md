@@ -248,6 +248,9 @@ The extraction details of classstyle and newtagseq can be obtained in papers 3.3
 
 ## Address [Address](https://github.com/qiaodaben/SPHDM-/tree/main/dataset)
 
+## Usage Policy and Legal Disclaimer
+This dataset is being distributed only for Research purposes, under Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0). By clicking on the download buttons, you are agreeing to use this data only for non-commercial, research, or academic applications. You may cite the above paper if you use this dataset.  
+
 ## Contact
 You can download this notebook as well as the well-organized dataset for training and testing. The toy example for visualization is in SPHDM Respository. If you find this work interesting and helpful to your work, please find the citation of the papers as below. Thank you very much. Any question you can email to fengjian@xust.edu.cn
 
