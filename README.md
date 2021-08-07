@@ -245,7 +245,7 @@ The format of one webpage in files is as follows:
  </tr>
 </tbody></table>
 
-The extraction details of classstyle and newtagseq can be obtained in papers 3.3.1 and 3.3.2.    
+The extraction details of classstyle and newtagseq can be found in section 3.3.1 and 3.3.2.   
 
 ## Data Address [Address](https://github.com/qiaodaben/SPHDM-/tree/main/dataset)
 
