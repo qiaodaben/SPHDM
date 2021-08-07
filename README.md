@@ -1,9 +1,9 @@
 # SPHDM 
                 A Structure based Phish Homology Detection Model (SPHDM)  is proposed to detected the phishing web.
 
-Thank you for your interests in our work!
+    Thank you for your interests in our work!
 
-The dataset we ultilized for training and testing for  is reposited in github.
+    The dataset we ultilized for training and testing for  is reposited in github.
 
 ## Dataset Sources  
 
@@ -13,9 +13,9 @@ The dataset we ultilized for training and testing for  is reposited in github.
 ## Pretreatment
 After webpage data is crawled and preprocessed, each file contains a complete set of phishing (or normal) webpages, page_PCA_N.7z represents the normal webpage data set, page_PCA_P.7z represents the phishing webpage data set, the format is as follows:{  
 'url': {  
-        'classstyl': [];  
-        'hashcode':'';  
-        'idstyle':[];  
+    'classstyl': [];  
+    'hashcode':'';  
+          'idstyle':[];  
         'name': url;  
         'newtagseq':[tag sequence with hierarchy];  
         'tagseq':[Tag sequence has no hierarchical information] }  
