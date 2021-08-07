@@ -12,8 +12,8 @@ The webpages used in the experiments come from Internet. Among them, the benign 
 The phishing webpage collection comes from [PhishTank.com](https://phishtank.org/). PhishTank is an internationally well-known website which collects suspected phish submitted by anyone, verifies it according to whether it has a fraudulent attempt or not, and then publish a timely and authoritative list of phishing webpages for research. Due to the short survival time of phishing webpages, we collected totally 10,944 phishing webpages listed on PhishTank every day from September 2019 to November 2019, and processed the webpages that did not meet the grammar rules.
 
 
-[phishing webpage](https://phishtank.org/)  
-[benign webpage](https://www.alexa.com/)  
+[phishing webpage: PhishTank](https://phishtank.org/)  
+[benign webpage: Alexa](https://www.alexa.com/)  
 
 ## Pretreatment
 After webpage data is crawled and preprocessed, each file contains a complete set of phishing (or normal) webpages, __`page_PCA_N.7z`__ represents the benign webpage data set, __`page_PCA_P.7z`__ represents the phishing webpage data set, the format is as follows:{
