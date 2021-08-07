@@ -3,7 +3,7 @@
 
     Thank you for your interests in our work!
 
-    The dataset we ultilized for training and testing for  is reposited in github.
+    The dataset we ultilized for training and testin is reposited in github.
 
 ## Dataset Sources  
 
@@ -11,7 +11,7 @@
 [benign webpage](https://www.alexa.com/)  
 
 ## Pretreatment
-After webpage data is crawled and preprocessed, each file contains a complete set of phishing (or normal) webpages, __`page_PCA_N.7z`__ represents the normal webpage data set, __`page_PCA_P.7z`__ represents the phishing webpage data set, the format is as follows:{  
+After webpage data is crawled and preprocessed, each file contains a complete set of phishing (or normal) webpages, __`page_PCA_N.7z`__ represents the benign webpage data set, __`page_PCA_P.7z`__ represents the phishing webpage data set, the format is as follows:{  
 __'url'__: {  
 - __'classstyl'__:   [];  
 - __'hashcode'__:    '';  
