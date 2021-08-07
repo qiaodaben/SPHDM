@@ -12,7 +12,7 @@
 
 ## Pretreatment
 After webpage data is crawled and preprocessed, each file contains a complete set of phishing (or normal) webpages, __`page_PCA_N.7z`__ represents the normal webpage data set, __`page_PCA_P.7z`__ represents the phishing webpage data set, the format is as follows:{  
-'url': {  
+__'url'__: {  
 - __'classstyl'__:   [];  
 - __'hashcode'__:    '';  
 - __'idstyle'__:     [];  
