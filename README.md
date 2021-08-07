@@ -18,8 +18,8 @@ __'url'__: {
 - __'idstyle'__:     [];  
 - __'name'__:        url;  
 - __'newtagseq'__:   [tag sequence with hierarchy];  
-- __'tagseq'__:      [Tag sequence has no hierarchical information] }  
-}  
+- __'tagseq'__:      [Tag sequence has no hierarchical information] 
+}}  
 
 ## Address [Address](https://github.com/qiaodaben/SPHDM-/tree/main/dataset)
 
